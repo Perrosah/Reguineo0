@@ -7,7 +7,7 @@
 
 
 
-##   Sobre Mi
+##   Sobe Mi
 
 - ⭐ Github User ⭐
 - 📱 FullStack Developer
